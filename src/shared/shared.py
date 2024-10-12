@@ -1,0 +1,10 @@
+# RabbitMQ
+SERVER_IP = ''
+RABBITMQ_HOST = 'localhost'
+RABBITMQ_PORT = 5672
+RABBITMQ_USERNAME = 'guest'
+EXCHANGE_NAME = 'hello'
+
+# Queues
+QUEUE_NAME = 'hello'
+PREFETCH_COUNT = 1
