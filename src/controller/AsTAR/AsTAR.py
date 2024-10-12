@@ -1,7 +1,6 @@
 import math
 import sys
 from utils.core_functions import logging_pc_changes
-sys.path.append('/home/matheus/Documentos/GIT/FuzzyLogicExp/subscriber/src')
 
 
 class AsTAR:

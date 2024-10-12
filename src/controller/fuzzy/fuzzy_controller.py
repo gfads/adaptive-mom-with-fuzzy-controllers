@@ -6,8 +6,6 @@ import numpy as np
 import skfuzzy as fuzz
 from skfuzzy import control as ctrl
 
-sys.path.append('/home/matheus/Documentos/GIT/FuzzyLogicExp/subscriber/src')
-
 
 class FuzzyController:
     def __init__(self, type: int, defuzzification_method: str = 'centroid'):

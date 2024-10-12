@@ -3,7 +3,6 @@ import pika
 import sys
 import concurrent.futures
 
-sys.path.append('/home/matheus/Documentos/GIT/FuzzyLogicExp/subscriber/src')
 from controller.hpa.hpa_controller import HPA
 from controller.fuzzy.fuzzy_controller import FuzzyController
 from controller.AsTAR.AsTAR import AsTAR

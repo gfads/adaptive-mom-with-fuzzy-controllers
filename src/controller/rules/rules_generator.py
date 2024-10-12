@@ -7,8 +7,6 @@ import math
 import numpy as np
 import pandas as pd
 
-sys.path.append('/home/matheus/Documentos/GIT/FuzzyLogicExp/subscriber/src')
-
 
 class GeneticAlgorithm:
     @staticmethod

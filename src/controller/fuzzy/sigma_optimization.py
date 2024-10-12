@@ -5,7 +5,6 @@ import skfuzzy as fuzz
 import numpy as np
 import pandas as pd
 
-sys.path.append('/home/matheus/Documentos/GIT/FuzzyLogicExp/subscriber/src')
 
 SEGMENTATION_SIZE = 7
 BASE = os.path.abspath(os.path.dirname(__file__))
