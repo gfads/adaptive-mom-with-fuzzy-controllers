@@ -39,6 +39,8 @@ This project implements Fuzzy Controllers combined with Genetic Algorithms to dy
 │   ├── core_functions.py        # Core utility functions for the project
 └── README.md                    # Project documentation
 
+```
+
 ## Customization
 
 - Fuzzy Logic Rules: You can modify the fuzzy logic rules and membership functions in controller/fuzzy/fuzzy_controller.py to fit different system requirements.
